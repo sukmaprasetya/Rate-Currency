@@ -1,0 +1,26 @@
+body {
+  background-color: #f8f9fa;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  background-color: #ffffff;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+
+.table th,
+.table td {
+  vertical-align: middle;
+}
+
+.text-success {
+  color: #28a745 !important;
+}
+
+.text-danger {
+  color: #dc3545 !important;
+}
